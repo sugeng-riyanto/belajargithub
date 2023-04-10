@@ -1,0 +1,4 @@
+Berikut ini adalah kompilasi perintah dan istilah yang penting
+VCS
+GIT
+Istilah-istilah: repo, commit, hash, checkout, branch, merge, remote, clone, push, pull.
